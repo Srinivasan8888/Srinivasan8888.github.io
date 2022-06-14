@@ -1,3 +1,2 @@
 Hold on, This website is underconstruction..
 its been coding by srinivasan
-This page is hosted and up and running...
