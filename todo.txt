@@ -1,5 +1,0 @@
--Index.html
-    - change img's (photo, page icon, )
-    - Add contents in services div
-    - Add studies in experience div
-    - Comment Works and blogs div
